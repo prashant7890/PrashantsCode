@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ApiFunctionalTestSuit">
+  <listeners>
+
+    <listener class-name="extentlisteners.ExtentListeners" />
+
+  </listeners>
+  <test thread-count="1" name="API Functional Test">
+    <classes>
+      <class name="com.cloudamize.functional.cmp.testCases.PerformanceController"/>
+<!--      <class name="com.cloudamize.functional.cmp.testCases.TestCase2"/>-->
+<!--      <class name="com.cloudamize.functional.cmp.testCases.ResourceController"/>-->
+        <!--      <class name="com.cloudamize.cmp.api.test2"/>-->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

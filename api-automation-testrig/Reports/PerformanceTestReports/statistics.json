@@ -1,0 +1,32 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 2,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 3157.5,
+    "minResTime" : 3098.0,
+    "maxResTime" : 3217.0,
+    "pct1ResTime" : 3217.0,
+    "pct2ResTime" : 3217.0,
+    "pct3ResTime" : 3217.0,
+    "throughput" : 0.5552470849528041,
+    "receivedKBytesPerSec" : 1.0177722445863409,
+    "sentKBytesPerSec" : 1.003674174069961
+  },
+  "Performance Controller Test" : {
+    "transaction" : "Performance Controller Test",
+    "sampleCount" : 2,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 3157.5,
+    "minResTime" : 3098.0,
+    "maxResTime" : 3217.0,
+    "pct1ResTime" : 3217.0,
+    "pct2ResTime" : 3217.0,
+    "pct3ResTime" : 3217.0,
+    "throughput" : 0.5552470849528041,
+    "receivedKBytesPerSec" : 1.0177722445863409,
+    "sentKBytesPerSec" : 1.003674174069961
+  }
+}
