@@ -1,0 +1,3 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1573557761333,3098,Performance Controller Test,200,,Thread Group 1-1,text,true,,1877,1851,2,2,http://cmp-qa.cloudamize.com/manage/v1/performance/filters/metrics/resourceid/i-034f75974183a15de,3096,0,20
+1573557761718,3217,Performance Controller Test,200,,Thread Group 1-2,text,true,,1877,1851,1,1,http://cmp-qa.cloudamize.com/manage/v1/performance/filters/metrics/resourceid/i-034f75974183a15de,3217,0,9
